@@ -17,7 +17,7 @@ def binary_search(arr, target):
     return -1
 
 index = binary_search(nums, target)
-print(nums[index])
+print(index)
 
 # Time complexity of binary search is typically O(log n). Best case O(1) if target is found at the middle of index
 # Array must be sorted
