@@ -1,2 +1,2 @@
 # DSA library
- personal library for data structures and algorithm
+ personal library for data structures and algorithms
